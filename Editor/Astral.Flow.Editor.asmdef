@@ -1,0 +1,19 @@
+{
+    "name": "Astral.Flow.Editor",
+    "rootNamespace": "Astral.Flow.Editor",
+    "references": [
+        "Astral.Flow",
+        "Astral.Base.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

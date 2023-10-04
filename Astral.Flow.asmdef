@@ -1,0 +1,16 @@
+{
+    "name": "Astral.Flow",
+    "rootNamespace": "Astral.Flow",
+    "references": [
+        "GUID:95feafd277ecc654dad6719bf8684a00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
